@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "A full-featured online store with cart, payments, and admin dashboard. Built with React, Node.js, and Stripe integration.",
+    "category": "Web App",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 2,
+    "title": "Social Media Dashboard",
+    "description": "Analytics dashboard for tracking social media metrics across multiple platforms with real-time updates.",
+    "category": "Dashboard",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 3,
+    "title": "AI Chat Application",
+    "description": "Conversational AI interface powered by GPT with context memory and custom personality configurations.",
+    "category": "AI/ML",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 4,
+    "title": "Fitness Tracker",
+    "description": "Mobile-first fitness app with workout logging, progress charts, and social challenges.",
+    "category": "Mobile",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 5,
+    "title": "Real Estate Platform",
+    "description": "Property listing platform with 3D virtual tours, mortgage calculator, and agent matching.",
+    "category": "Web App",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 6,
+    "title": "Music Streaming Service",
+    "description": "Spotify-like music platform with playlist creation, recommendations, and social sharing.",
+    "category": "Web App",
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 7,
+    "title": "Task Management Tool",
+    "description": "Kanban-style project management with team collaboration, time tracking, and automation.",
+    "category": "Dashboard",
+    "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 8,
+    "title": "Weather Application",
+    "description": "Beautiful weather app with 7-day forecasts, radar maps, and severe weather alerts.",
+    "category": "Mobile",
+    "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 9,
+    "title": "Crypto Portfolio Tracker",
+    "description": "Cryptocurrency portfolio manager with real-time prices, alerts, and tax reporting.",
+    "category": "Dashboard",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 10,
+    "title": "Recipe Sharing Platform",
+    "description": "Community recipe platform with meal planning, grocery lists, and nutritional info.",
+    "category": "Web App",
+    "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 11,
+    "title": "Image Recognition API",
+    "description": "Machine learning API for image classification, object detection, and facial recognition.",
+    "category": "AI/ML",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 12,
+    "title": "Video Conferencing App",
+    "description": "WebRTC-based video calling with screen sharing, recording, and virtual backgrounds.",
+    "category": "Web App",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 13,
+    "title": "Learning Management System",
+    "description": "Educational platform with courses, quizzes, certificates, and progress tracking.",
+    "category": "Web App",
+    "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 14,
+    "title": "Inventory Management",
+    "description": "Warehouse management system with barcode scanning, stock alerts, and supplier integration.",
+    "category": "Dashboard",
+    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 15,
+    "title": "Dating App UI",
+    "description": "Modern dating app interface with swipe mechanics, matching algorithm, and chat.",
+    "category": "Mobile",
+    "image": "https://images.unsplash.com/photo-1516251193007-45ef944ab0c6?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 16,
+    "title": "NFT Marketplace",
+    "description": "Blockchain-based marketplace for creating, buying, and selling digital collectibles.",
+    "category": "Web3",
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 17,
+    "title": "Code Editor",
+    "description": "Browser-based code editor with syntax highlighting, auto-complete, and live preview.",
+    "category": "Developer Tools",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 18,
+    "title": "Booking System",
+    "description": "Appointment scheduling system for salons, clinics, and service businesses.",
+    "category": "Web App",
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 19,
+    "title": "News Aggregator",
+    "description": "Personalized news feed with AI-powered recommendations and reading time estimates.",
+    "category": "AI/ML",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 20,
+    "title": "Smart Home Controller",
+    "description": "IoT dashboard for controlling smart home devices with automation and energy tracking.",
+    "category": "Dashboard",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 21,
+    "title": "Travel Planning App",
+    "description": "Trip planner with itinerary builder, budget tracker, and local recommendations.",
+    "category": "Mobile",
+    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 22,
+    "title": "Document Scanner",
+    "description": "Mobile document scanner with OCR, PDF export, and cloud storage integration.",
+    "category": "Mobile",
+    "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 23,
+    "title": "Restaurant POS",
+    "description": "Point of sale system for restaurants with table management and order tracking.",
+    "category": "Dashboard",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 24,
+    "title": "Podcast Platform",
+    "description": "Podcast hosting and streaming platform with analytics and monetization tools.",
+    "category": "Web App",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800",
+    "liveUrl": "#",
+    "githubUrl": "#"
+  }
+]
