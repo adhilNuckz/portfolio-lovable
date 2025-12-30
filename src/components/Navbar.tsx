@@ -7,10 +7,10 @@ const Navbar = () => {
   const [isContactOpen, setIsContactOpen] = useState(false);
 
   const socialLinks = [
-    { icon: Github, href: 'https://github.com', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
-    { icon: MessageCircle, href: 'https://wa.me/', label: 'WhatsApp' },
-    { icon: Mail, href: 'mailto:hello@example.com', label: 'Email' },
+    { icon: Github, href: 'https://github.com/adhilNuckz', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://linkedin.com/in/adhilmk', label: 'LinkedIn' },
+    { icon: MessageCircle, href: 'https://wa.me/+94783811114', label: 'WhatsApp' },
+    { icon: Mail, href: 'mailto:mikeadhil2002@gmail.com', label: 'Email' },
   ];
 
   return (
